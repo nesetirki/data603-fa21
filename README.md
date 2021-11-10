@@ -13,7 +13,7 @@
 |7             |13-Oct      |Streaming Spark 1            |https://umbc.webex.com/umbc/ldr.php?RCID=a10f2fc784184dac65a7aeed916118da|
 |8             |20-Oct      |Streaming Spark 2            |[Pre-class playlist](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)<br /> https://umbc.webex.com/umbc/ldr.php?RCID=b9bc95a76e3ad5fdc2fa4325d660c52b|
 |9             |27-Oct      |Spark MLlib 1                |https://umbc.webex.com/umbc/ldr.php?RCID=2adf8065484df825aa6821587d0314d5|
-|10            |3-Nov       |                             |                                                                         |
+|10            |3-Nov       |Spark MLlib 2                |https://umbc.webex.com/umbc/ldr.php?RCID=cd5d08dba8e4c963e58d4b774609fe9f|
 |11            |10-Nov      |                             |                                                                         |
 |12            |17-Nov      |                             |                                                                         |
 |13            |24-Nov      |                             |                                                                         |
