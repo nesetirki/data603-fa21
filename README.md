@@ -15,7 +15,7 @@
 |9             |27-Oct      |Spark MLlib 1                |https://umbc.webex.com/umbc/ldr.php?RCID=2adf8065484df825aa6821587d0314d5|
 |10            |3-Nov       |Spark MLlib 2                |https://umbc.webex.com/umbc/ldr.php?RCID=cd5d08dba8e4c963e58d4b774609fe9f|
 |11            |10-Nov      |Graphs and Graph Analytics   |https://umbc.webex.com/umbc/ldr.php?RCID=3e02353338cabcbe146dcc2fd0c332ed|
-|12            |17-Nov      |                             |                                                                         |
+|12            |17-Nov      |Optimization and Tuning      |https://umbc.webex.com/umbc/ldr.php?RCID=b4e2f5a1e88eb255c5f1a5bfdec17304|
 |13            |24-Nov      |                             |                                                                         |
 |14            |1-Dec       |                             |                                                                         |
 |15            |8-Dec       |                             |           
